@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1604828606 source:/home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+
+1604832957 /home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Carte.h
+	<iostream>
+	<cstring>
+
+1604594157 source:/home/stefan/2_tutoring/An2/LABORATOR/etapa_1/DBMS.cpp
+	"DBMS.h"
+
+1604594157 /home/stefan/2_tutoring/An2/LABORATOR/etapa_1/DBMS.h
+	<iostream>
+
+1604663773 source:/home/stefan/2_tutoring/An2/LABORATOR/etapa_1/main.cpp
+	<iostream>
+	<fstream>
+	"Carte.h"
+	"Autor.h"
+	"Imprumut.h"
+	"Cititor.h"
+	"DBMS.h"
+
+1604665057 /home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Autor.h
+	<iostream>
+	"Carte.h"
+
+1604666888 /home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Imprumut.h
+	<iostream>
+	"Carte.h"
+
+1604828832 /home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Cititor.h
+	<iostream>
+	"Carte.h"
+
+1604661907 source:/home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Autor.cpp
+	"Autor.h"
+	<iostream>
+	<string.h>
+
+1604828845 source:/home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Cititor.cpp
+	"Cititor.h"
+	<iostream>
+	<string.h>
+	"Imprumut.h"
+	"Autor.h"
+
+1604667105 source:/home/stefan/2_tutoring/An2/LABORATOR/etapa_1/Imprumut.cpp
+	"Imprumut.h"
+	"Cititor.h"
+	<iostream>
+	<cstring>
+
+1604661907 source:/home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Autor.cpp
+	"Autor.h"
+	<iostream>
+	<string.h>
+
+1604836865 /home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Autor.h
+	<iostream>
+	"Carte.h"
+
+1604838136 /home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Carte.h
+	<iostream>
+	<cstring>
+
+1604833139 source:/home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Cititor.cpp
+	"Cititor.h"
+	<iostream>
+	<string.h>
+	"Imprumut.h"
+	"Autor.h"
+
+1604828832 /home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Cititor.h
+	<iostream>
+	"Carte.h"
+
+1604833267 /home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Imprumut.h
+	<iostream>
+	"Carte.h"
+
+1604594157 source:/home/stefan/2_tutoring/elena/LABORATOR/etapa_1/DBMS.cpp
+	"DBMS.h"
+
+1604594157 /home/stefan/2_tutoring/elena/LABORATOR/etapa_1/DBMS.h
+	<iostream>
+
+1604834670 source:/home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Imprumut.cpp
+	"Imprumut.h"
+	"Cititor.h"
+	<iostream>
+	<cstring>
+
+1604837578 source:/home/stefan/2_tutoring/elena/LABORATOR/etapa_1/main.cpp
+	<iostream>
+	<fstream>
+	"Carte.h"
+	"Autor.h"
+	"Imprumut.h"
+	"Cititor.h"
+	"DBMS.h"
+
+1604838272 source:/home/stefan/2_tutoring/elena/LABORATOR/etapa_1/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+
+1604842410 source:d:\etapa1\autor.cpp
+	"Autor.h"
+	<iostream>
+	<string.h>
+
+1604836864 d:\etapa1\autor.h
+	<iostream>
+	"Carte.h"
+
+1604840978 d:\etapa1\carte.h
+	<iostream>
+	<cstring>
+
+1604838272 source:d:\etapa1\carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+
+1604833138 source:d:\etapa1\cititor.cpp
+	"Cititor.h"
+	<iostream>
+	<string.h>
+	"Imprumut.h"
+	"Autor.h"
+
+1604828832 d:\etapa1\cititor.h
+	<iostream>
+	"Carte.h"
+
+1604833266 d:\etapa1\imprumut.h
+	<iostream>
+	"Carte.h"
+
+1604594156 source:d:\etapa1\dbms.cpp
+	"DBMS.h"
+
+1604594156 d:\etapa1\dbms.h
+	<iostream>
+
+1604834670 source:d:\etapa1\imprumut.cpp
+	"Imprumut.h"
+	"Cititor.h"
+	<iostream>
+	<cstring>
+
+1604844244 source:d:\etapa1\main.cpp
+	<iostream>
+	<fstream>
+	"Carte.h"
+	"Autor.h"
+	"Imprumut.h"
+	"Cititor.h"
+	"DBMS.h"
+
